@@ -1,1 +1,2 @@
 # devcraft
+dRepo para desplegar un servidor de Minecraft Java Edition en la nube de AWS usando herramientas DevOps modernas como Terraform, Docker y GitHub. Configurar infraestructura como código (IaC), usar servicios como EC2 y S3, y automatizar el proceso. Al final, tendrán un servidor funcional al que podrán conectarse desde Minecraft
